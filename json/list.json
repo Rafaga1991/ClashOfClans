@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Lista de Guerra",
+        "icon": "fas fa-bomb",
+        "url": "./?view=listwar",
+        "bg": "bg-info",
+        "fg": "text-white"
+    },
+    {
+        "name": "Lista de Espera",
+        "icon": "fas fa-hourglass-half",
+        "url": "./?view=listwait",
+        "bg": "bg-danger",
+        "fg": "text-white"
+    },
+    {
+        "name": "Lista de Descanso",
+        "icon": "fas fa-bed",
+        "url": "./?view=listbreak",
+        "bg": "bg-primary",
+        "fg": "text-white"
+    }
+]

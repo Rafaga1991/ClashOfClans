@@ -1,0 +1,227 @@
+[
+    {
+        "tag": "#8VLRJGV2L",
+        "name": "KREWELLA",
+        "townhallLevel": 14,
+        "mapPosition": 1,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+            "attackerTag": "#2GQJUUG9P",
+            "defenderTag": "#8VLRJGV2L",
+            "stars": 2,
+            "destructionPercentage": 98,
+            "order": 15,
+            "duration": 179
+        }
+    },
+    {
+        "tag": "#PGVQ2QUG2",
+        "name": "sneha",
+        "townhallLevel": 12,
+        "mapPosition": 2,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+            "attackerTag": "#92R0C0UUU",
+            "defenderTag": "#PGVQ2QUG2",
+            "stars": 2,
+            "destructionPercentage": 62,
+            "order": 13,
+            "duration": 100
+        }
+    },
+    {
+        "tag": "#98PC8R9R2",
+        "name": "mhd roshan",
+        "townhallLevel": 12,
+        "mapPosition": 3,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+            "attackerTag": "#8J8R89RGU",
+            "defenderTag": "#98PC8R9R2",
+            "stars": 2,
+            "destructionPercentage": 77,
+            "order": 14,
+            "duration": 97
+        }
+    },
+    {
+        "tag": "#99CV9QU8R",
+        "name": "Sam@",
+        "townhallLevel": 12,
+        "mapPosition": 4,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+            "attackerTag": "#8J2JJL028",
+            "defenderTag": "#99CV9QU8R",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 12,
+            "duration": 106
+        }
+    },
+    {
+        "tag": "#PGP2QL988",
+        "name": "speedster",
+        "townhallLevel": 12,
+        "mapPosition": 5,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+            "attackerTag": "#99CP8RJ2L",
+            "defenderTag": "#PGP2QL988",
+            "stars": 2,
+            "destructionPercentage": 65,
+            "order": 11,
+            "duration": 80
+        }
+    },
+    {
+        "tag": "#QU8VLUVR",
+        "name": "arjun bahubali",
+        "townhallLevel": 11,
+        "mapPosition": 6,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+            "attackerTag": "#98V90U9PJ",
+            "defenderTag": "#QU8VLUVR",
+            "stars": 2,
+            "destructionPercentage": 52,
+            "order": 10,
+            "duration": 128
+        }
+    },
+    {
+        "tag": "#8LU0JUUCC",
+        "name": "ArUNCHanD",
+        "townhallLevel": 11,
+        "mapPosition": 7,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+            "attackerTag": "#99898PPGU",
+            "defenderTag": "#8LU0JUUCC",
+            "stars": 2,
+            "destructionPercentage": 75,
+            "order": 9,
+            "duration": 110
+        }
+    },
+    {
+        "tag": "#9QP8JJJL9",
+        "name": "MEBIN",
+        "townhallLevel": 11,
+        "mapPosition": 8,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+            "attackerTag": "#9PJR9RJLQ",
+            "defenderTag": "#9QP8JJJL9",
+            "stars": 1,
+            "destructionPercentage": 42,
+            "order": 8,
+            "duration": 87
+        }
+    },
+    {
+        "tag": "#2QQQ8P0R",
+        "name": "DEAD POOL",
+        "townhallLevel": 11,
+        "mapPosition": 9,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+            "attackerTag": "#92GCQUP29",
+            "defenderTag": "#2QQQ8P0R",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 7,
+            "duration": 92
+        }
+    },
+    {
+        "tag": "#9YJCGLPJR",
+        "name": "AxAy",
+        "townhallLevel": 10,
+        "mapPosition": 10,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+            "attackerTag": "#9URJUQGQJ",
+            "defenderTag": "#9YJCGLPJR",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 6,
+            "duration": 114
+        }
+    },
+    {
+        "tag": "#2C8VVL0RL",
+        "name": "kiLlEr********J",
+        "townhallLevel": 10,
+        "mapPosition": 11,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+            "attackerTag": "#9GUYYU9QY",
+            "defenderTag": "#2C8VVL0RL",
+            "stars": 2,
+            "destructionPercentage": 99,
+            "order": 5,
+            "duration": 154
+        }
+    },
+    {
+        "tag": "#90V8V0800",
+        "name": "ANAS",
+        "townhallLevel": 10,
+        "mapPosition": 12,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+            "attackerTag": "#P82PGJYVL",
+            "defenderTag": "#90V8V0800",
+            "stars": 2,
+            "destructionPercentage": 92,
+            "order": 4,
+            "duration": 121
+        }
+    },
+    {
+        "tag": "#8JQ2L8L0U",
+        "name": "Christy",
+        "townhallLevel": 10,
+        "mapPosition": 13,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+            "attackerTag": "#P2UVLLGYC",
+            "defenderTag": "#8JQ2L8L0U",
+            "stars": 2,
+            "destructionPercentage": 69,
+            "order": 3,
+            "duration": 125
+        }
+    },
+    {
+        "tag": "#PVPYQ8Q9J",
+        "name": "RANGER\u2620\u2620",
+        "townhallLevel": 10,
+        "mapPosition": 14,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+            "attackerTag": "#LY28P9VL8",
+            "defenderTag": "#PVPYQ8Q9J",
+            "stars": 2,
+            "destructionPercentage": 84,
+            "order": 2,
+            "duration": 104
+        }
+    },
+    {
+        "tag": "#2RU9GUJY9",
+        "name": "DarKEN.Lord",
+        "townhallLevel": 10,
+        "mapPosition": 15,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+            "attackerTag": "#LLLYQYLUV",
+            "defenderTag": "#2RU9GUJY9",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 1,
+            "duration": 111
+        }
+    }
+]

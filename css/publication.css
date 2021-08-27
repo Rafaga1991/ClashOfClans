@@ -1,0 +1,32 @@
+.commentary{
+    width: 100%;
+    border-top: solid 0px;
+    border-left: solid 0px;
+    border-right: solid 0px;
+    border-bottom: solid 1px #ADADAD;
+    outline: none;
+}
+
+.btnVisivility{
+    opacity: 0.3;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.btnVisivility:hover{
+    opacity: 0.6;
+}
+
+.position-list-member{
+    width: 35px;
+    height: 35px;
+    border: 0px solid;
+    transition: 0.5s;
+}
+
+.position-list-member:hover{
+    transform: scale(1.1);
+    background-color: rgb(57, 125, 214);
+    color: white;
+    box-shadow: rgb(97, 95, 95) 5px 5px 5px;
+}

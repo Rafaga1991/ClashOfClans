@@ -1,0 +1,296 @@
+{
+    "leader": "Líder",
+    "coleader": "Colíder",
+    "member": "Miembro",
+    "admin": "Veterano",
+    "barbarian": "B\u00e1rbaro",
+    "archer": "Arquero",
+    "goblin": "Duende",
+    "giant": "Gigante",
+    "wallbreaker": "Rompemuros",
+    "balloon": "Globo",
+    "wizard": "Mago",
+    "healer": "Curador",
+    "dragon": "Dragón",
+    "pekka": "P.E.K.K.A",
+    "minion": "Esbirro",
+    "hogrider": "Jinete de cerdo",
+    "valkyrie": "Valquiria",
+    "golem": "Golem",
+    "witch": "Bruja",
+    "lavahound": "Sabueso de lava",
+    "bowler": "Lanza Rocas",
+    "babydragon": "Beb\u00e9 drag\u00f3n",
+    "miner": "Minero",
+    "superbarbarian": "S\u00faper b\u00e1rbaro",
+    "superarcher": "Super arquero",
+    "superwallbreaker": "S\u00faper rompemuros",
+    "supergiant": "Super gigante",
+    "wallwrecker": "Destructor de pared",
+    "battleblimp": "Dirigible de batalla",
+    "yeti": "Yeti",
+    "sneakygoblin": "Duende furtivo",
+    "rocketballoon": "Globo cohete",
+    "icegolem": "Golem de hielo",
+    "electrodragon": "Drag\u00f3n Eléctrico",
+    "stoneslammer": "Stone Slammer",
+    "infernodragon": "Drag\u00f3n infernal",
+    "supervalkyrie": "Super valquiria",
+    "dragonrider": "Jinete de drag\u00f3n",
+    "superwitch": "Super bruja",
+    "siegebarracks": "Cuartel de asedio",
+    "icehound": "Sabueso de hielo",
+    "headhunter": "Cazadora de Héroes",
+    "superwizard": "Super mago",
+    "superminion": "Super Esbirro",
+    "loglauncher": "Lanzador de registro",
+    "lassi": "L.A.S.S.I",
+    "mightyyak": "Poderoso Yak",
+    "electroowl": "B\u00faho Electro",
+    "unicorn": "Unicornio",
+    "lightningspell": "Hechizo de rayo",
+    "healingspell": "Hechizo curativo",
+    "ragespell": "Hechizo de rabia",
+    "jumpspell": "Hechizo de salto",
+    "freezespell": "Hechizo de congelaci\u00f3n",
+    "poisonspell": "Hechizo de veneno",
+    "earthquakespell": "Hechizo de terremoto",
+    "hastespell": "Hechizo de aceleraci\u00f3n",
+    "clonespell": "Hechizo de clon",
+    "skeletonspell": "Hechizo de esqueleto",
+    "batspell": "Hechizo de murci\u00e9lago",
+    "invisibilityspell": "Hechizo de invisibilidad",
+    "barbarianking": "Rey b\u00e1rbaro",
+    "archerqueen": "Reina Arquera",
+    "grandwarden": "Gran Centinela",
+    "royalchampion": "Campe\u00f3n Real",
+    "biggercoffers": {
+        "name": "Arcas m\u00e1s grandes",
+        "info": "Actualizar un almacenamiento oro a nivel 10",
+        "completionInfo": "Nivel de almacenamiento de oro m\u00e1s alto: 7"
+    },
+    "getthosegoblins!": {
+        "name": "\u00a1Consigue esos otros Goblins!",
+        "info": "Gana 200 estrellas en el mapa de campa\u00f1a",
+        "completionInfo": "Estrellas en el mapa de campa\u00f1a: 28"
+    },
+    "bigger&better": {
+        "name": "M\u00e1s grande mejor",
+        "info": "Mejora el Ayuntamiento al nivel 5",
+        "completionInfo": "Nivel actual del Ayuntamiento: 4"
+    },
+    "niceandtidy": {
+        "name": "Agradable y ordenado",
+        "info": "Elimina 5 obst\u00e1culos (\u00e1rboles, rocas, arbustos)",
+        "completionInfo": "Total de obst\u00e1culos eliminados: 2"
+    },
+    "discovernewtroops": {
+        "name": "Descubrir nuevas tropas",
+        "info": "Desbloquea el rompemuros en el cuartel",
+        "completionInfo": null
+    },
+    "goldgrab": {
+        "name": "Gold Grab",
+        "info": "Roba 1000000 de oro",
+        "completionInfo": "Total de oro saqueado: 419169"
+    },
+    "elixirescapade": {
+        "name": "Escapada de elixir",
+        "info": "Roba 1000000 de elixir",
+        "completionInfo": "Total de elixir saqueado: 515569"
+    },
+    "sweetvictory!": {
+        "name": "\u00a1Dulce victoria!",
+        "info": "Consigue un total de 750 trofeos en batallas multijugador.",
+        "completionInfo": "R\u00e9cord de trofeos: 491"
+    },
+    "empirebuilder": {
+        "name": "constructor de imperios",
+        "info": "Mejora el castillo del clan al nivel 2",
+        "completionInfo": "Nivel actual del castillo del clan: 1"
+    },
+    "wallbuster": {
+        "name": "Wall Buster",
+        "info": "Destruye 100 muros en batallas multijugador.",
+        "completionInfo": "Total de muros destruidos: 62"
+    },
+    "humiliator": {
+        "name": "Humillador",
+        "info": "Destruye 100 ayuntamientos en batallas multijugador.",
+        "completionInfo": "Total de ayuntamientos destruidos: 29"
+    },
+    "unionbuster": {
+        "name": "Union Buster",
+        "info": "Destruye 250 caba\u00f1as del constructor en batallas multijugador.",
+        "completionInfo": "Total de caba\u00f1as del constructor destruidas: 67"
+    },
+    "conqueror": {
+        "name": "Conquistador",
+        "info": "Gana 250 batallas multijugador",
+        "completionInfo": "Total de batallas multijugador ganadas: 30"
+    },
+    "unbreakable": {
+        "name": "Irrompible",
+        "info": "Defiende con \u00e9xito contra 10 ataques",
+        "completionInfo": "Defensas totales ganadas: 0"
+    },
+    "friendinneed": {
+        "name": "Amigo en necesidad",
+        "info": "Dona 100 refuerzos por valor de capacidad a los compa\u00f1eros de clan.",
+        "completionInfo": "Capacidad total donada: 5"
+    },
+    "mortarmauler": {
+        "name": "Mortero Mauler",
+        "info": "Destruye 25 morteros en batallas multijugador.",
+        "completionInfo": "Morteros totales destruidos: 24"
+    },
+    "heroicheist": {
+        "name": "Atraco heroico",
+        "info": "Roba 20000 de elixir oscuro",
+        "completionInfo": "Total de elixir oscuro saqueado: 0"
+    },
+    "leagueall-star": {
+        "name": "Liga de las estrellas",
+        "info": "Unirse a la Liga de cristal",
+        "completionInfo": null
+    },
+    "x-bowexterminator": {
+        "name": "Exterminador X-Bow",
+        "info": "Destruye un X-Bow en una batalla multijugador.",
+        "completionInfo": "Total de arcos X destruidos: 0"
+    },
+    "firefighter": {
+        "name": "Bombero",
+        "info": "Destruye 10 torres Inferno en batallas multijugador",
+        "completionInfo": "Total de torres infernales destruidas: 0"
+    },
+    "warhero": {
+        "name": "H\u00e9roe de guerra",
+        "info": "Consigue 10 estrellas para tu clan en las batallas de la Guerra de clanes.",
+        "completionInfo": "Total de estrellas anotadas por clan en batallas de Guerra de clanes: 0"
+    },
+    "clanwarwealth": {
+        "name": "Riqueza de la guerra de clanes",
+        "info": "Recoge 800000 de oro del castillo del clan.",
+        "completionInfo": "Oro total recolectado en las bonificaciones de Guerra de clanes: 37956"
+    },
+    "anti-artillery": {
+        "name": "Anti-Artiller\u00eda",
+        "info": "Destruye 20 Eagle Artilleries en batallas multijugador.",
+        "completionInfo": "Total de artiller\u00edas de \u00e1guila destruidas: 0"
+    },
+    "sharingiscaring": {
+        "name": "Compartir es demostrar inter\u00e9s",
+        "info": "Dona 100 hechizos de capacidad de almacenamiento de hechizos",
+        "completionInfo": "Capacidad total de hechizos donada: 0"
+    },
+    "keepyouraccountsafe!": {
+        "name": "\u00a1Mantenga su cuenta segura!",
+        "info": "Conecte su cuenta a Supercell ID para mantenerla a salvo.",
+        "completionInfo": "\u00a1Terminado!"
+    },
+    "masterengineering": {
+        "name": "Maestr\u00eda en Ingenier\u00eda",
+        "info": "Mejora Builder Hall al nivel 3",
+        "completionInfo": "Nivel actual de la sala del constructor: 2"
+    },
+    "nextgenerationmodel": {
+        "name": "Modelo de pr\u00f3xima generaci\u00f3n",
+        "info": "Desbloquea el arquero furtivo en el cuartel del constructor",
+        "completionInfo": null
+    },
+    "un-buildit": {
+        "name": "Desconstruirlo",
+        "info": "Destruye 5 salas de constructores en batallas Versus",
+        "completionInfo": "Total de salas de constructores destruidas: 4"
+    },
+    "championbuilder": {
+        "name": "Constructor campe\u00f3n",
+        "info": "Consigue un total de 200 trofeos en batallas Versus.",
+        "completionInfo": "R\u00e9cord contra Trofeo: 110"
+    },
+    "highgear": {
+        "name": "Engranaje alto",
+        "info": "Prepara un edificio con el constructor maestro",
+        "completionInfo": "Total de edificios equipados: 0"
+    },
+    "hiddentreasures": {
+        "name": "Tesoros escondidos",
+        "info": "Reconstruir mina de gemas",
+        "completionInfo": null
+    },
+    "gameschampion": {
+        "name": "Campe\u00f3n de juegos",
+        "info": "Gana 10000 puntos en juegos de clanes",
+        "completionInfo": "Puntos totales de juegos de clanes: 0"
+    },
+    "dragonslayer": {
+        "name": "cazador de dragones",
+        "info": "Mata al drag\u00f3n gigante",
+        "completionInfo": null
+    },
+    "warleaguelegend": {
+        "name": "Leyenda de la Liga de Guerra",
+        "info": "Consigue 20 estrellas para tu clan en las batallas de la Liga de Guerra.",
+        "completionInfo": "Total de estrellas anotadas por clan en batallas de la Liga de Guerra: 0"
+    },
+    "wellseasoned": {
+        "name": "Bien sazonado",
+        "info": "Gana 5000 puntos en desaf\u00edos de temporada",
+        "completionInfo": "Puntos totales de desaf\u00edos de temporada: 2525"
+    },
+    "shatteredandscattered": {
+        "name": "Destrozado y disperso",
+        "info": "Destruye 40 Scattershots en batallas multijugador.",
+        "completionInfo": "Disparos dispersos totales destruidos: 0"
+    },
+    "notsoeasythistime": {
+        "name": "No es tan f\u00e1cil esta vez",
+        "info": "Destruye 10 ayuntamientos armados en batallas multijugador.",
+        "completionInfo": "Ayuntamientos armados destruidos: 0"
+    },
+    "bustthis!": {
+        "name": "\u00a1Revienta esto!",
+        "info": "Destruye 25 caba\u00f1as de constructor armadas en batallas multijugador.",
+        "completionInfo": "Total de caba\u00f1as de constructor armadas destruidas: 0"
+    },
+    "superbwork": {
+        "name": "Excelente trabajo",
+        "info": "Impulsa una S\u00faper Tropa 20 veces",
+        "completionInfo": "Total de veces que las Super Tropas aumentaron: 0"
+    },
+    "siegesharer": {
+        "name": "Compartidor de asedio",
+        "info": "Dona 50 m\u00e1quinas de asedio",
+        "completionInfo": "M\u00e1quinas de asedio totales donadas: 0"
+    },
+    "clanwars": "Guerras de clanes",
+    "clanwarleague": "Liga de guerra de clanes",
+    "trophypushing": "Trofeo empujando",
+    "friendlywars": "Guerras amistosas",
+    "clangames": "Juegos de clanes",
+    "builderbase": "Base de constructor",
+    "basedesigning": "Dise\u00f1o de bases",
+    "farming": "Agricultura",
+    "activedonator": "Donante activo",
+    "activedaily": "Activo diariamente",
+    "hungrylearner": "Aprendiz hambriento",
+    "friendly": "Amistoso",
+    "talkative": "Hablador",
+    "teacher": "Profesor",
+    "competitive": "Competitivo",
+    "veteran": "Veterano",
+    "newbie": "Novato",
+    "amateurattacker": "Atacante aficionado",
+    "international": "Internacional",
+    "donations": "Donaciones",
+    "underdog": "Desvalido",
+    "relaxed": "Relajado",
+    "newbiefriendly": "Amigable para novatos",
+    "preparation" : "Preparación",
+    "inwar": "En Guerra",
+    "win": "Victoria",
+    "lose": "Derrota",
+    "tie": "Empate",
+    "warended": "Guerra Finalizada"
+}

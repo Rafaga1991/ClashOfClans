@@ -1,0 +1,273 @@
+[
+    {
+        "tag": "#LYLR0QJUG",
+        "name": "Randall",
+        "townhallLevel": 13,
+        "mapPosition": 1,
+        "attacks": [
+            {
+                "attackerTag": "#LYLR0QJUG",
+                "defenderTag": "#8VLRJGV2L",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 7,
+                "duration": 122
+            }
+        ],
+        "opponentAttacks": 0
+    },
+    {
+        "tag": "#YJL82ULGR",
+        "name": "Vanilla Gorilla",
+        "townhallLevel": 13,
+        "mapPosition": 2,
+        "attacks": [
+            {
+                "attackerTag": "#YJL82ULGR",
+                "defenderTag": "#PGVQ2QUG2",
+                "stars": 2,
+                "destructionPercentage": 90,
+                "order": 13,
+                "duration": 103
+            }
+        ],
+        "opponentAttacks": 0
+    },
+    {
+        "tag": "#LJ9ULUUY",
+        "name": "Brady",
+        "townhallLevel": 12,
+        "mapPosition": 3,
+        "attacks": [
+            {
+                "attackerTag": "#LJ9ULUUY",
+                "defenderTag": "#98PC8R9R2",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 15,
+                "duration": 139
+            }
+        ],
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+            "attackerTag": "#PGVQ2QUG2",
+            "defenderTag": "#LJ9ULUUY",
+            "stars": 1,
+            "destructionPercentage": 75,
+            "order": 11,
+            "duration": 132
+        }
+    },
+    {
+        "tag": "#9P0QCLLYL",
+        "name": "stryder33",
+        "townhallLevel": 12,
+        "mapPosition": 4,
+        "attacks": [
+            {
+                "attackerTag": "#9P0QCLLYL",
+                "defenderTag": "#99CV9QU8R",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 5,
+                "duration": 84
+            }
+        ],
+        "opponentAttacks": 0
+    },
+    {
+        "tag": "#YPPLRGQPQ",
+        "name": "Squealer",
+        "townhallLevel": 12,
+        "mapPosition": 5,
+        "attacks": [
+            {
+                "attackerTag": "#YPPLRGQPQ",
+                "defenderTag": "#PGP2QL988",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 16,
+                "duration": 83
+            }
+        ],
+        "opponentAttacks": 0
+    },
+    {
+        "tag": "#2QJJJVPV",
+        "name": "SkullCrusher",
+        "townhallLevel": 12,
+        "mapPosition": 6,
+        "attacks": [
+            {
+                "attackerTag": "#2QJJJVPV",
+                "defenderTag": "#QU8VLUVR",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 12,
+                "duration": 106
+            }
+        ],
+        "opponentAttacks": 0
+    },
+    {
+        "tag": "#YG9URY2G",
+        "name": "Revizaa",
+        "townhallLevel": 12,
+        "mapPosition": 7,
+        "attacks": [
+            {
+                "attackerTag": "#YG9URY2G",
+                "defenderTag": "#9QP8JJJL9",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 10,
+                "duration": 153
+            }
+        ],
+        "opponentAttacks": 0
+    },
+    {
+        "tag": "#YJR9922P",
+        "name": "Serenity-now!!",
+        "townhallLevel": 12,
+        "mapPosition": 8,
+        "attacks": [
+            {
+                "attackerTag": "#YJR9922P",
+                "defenderTag": "#8LU0JUUCC",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 4,
+                "duration": 106
+            }
+        ],
+        "opponentAttacks": 0
+    },
+    {
+        "tag": "#9VG0JG08U",
+        "name": "enasty",
+        "townhallLevel": 12,
+        "mapPosition": 9,
+        "attacks": [
+            {
+                "attackerTag": "#9VG0JG08U",
+                "defenderTag": "#2QQQ8P0R",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 17,
+                "duration": 60
+            }
+        ],
+        "opponentAttacks": 0
+    },
+    {
+        "tag": "#LGUJYJGUL",
+        "name": "Lil Nug",
+        "townhallLevel": 12,
+        "mapPosition": 10,
+        "attacks": [
+            {
+                "attackerTag": "#LGUJYJGUL",
+                "defenderTag": "#9YJCGLPJR",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 8,
+                "duration": 112
+            }
+        ],
+        "opponentAttacks": 0
+    },
+    {
+        "tag": "#R2PVGGPJ",
+        "name": "sly_booty",
+        "townhallLevel": 12,
+        "mapPosition": 11,
+        "attacks": [
+            {
+                "attackerTag": "#R2PVGGPJ",
+                "defenderTag": "#2C8VVL0RL",
+                "stars": 2,
+                "destructionPercentage": 87,
+                "order": 6,
+                "duration": 179
+            }
+        ],
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+            "attackerTag": "#PGP2QL988",
+            "defenderTag": "#R2PVGGPJ",
+            "stars": 1,
+            "destructionPercentage": 35,
+            "order": 2,
+            "duration": 90
+        }
+    },
+    {
+        "tag": "#20P8V92C9",
+        "name": "The Eradicator",
+        "townhallLevel": 11,
+        "mapPosition": 12,
+        "attacks": [
+            {
+                "attackerTag": "#20P8V92C9",
+                "defenderTag": "#90V8V0800",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 3,
+                "duration": 99
+            }
+        ],
+        "opponentAttacks": 0
+    },
+    {
+        "tag": "#YCYPJ8LGY",
+        "name": "Scotty",
+        "townhallLevel": 10,
+        "mapPosition": 13,
+        "attacks": [
+            {
+                "attackerTag": "#YCYPJ8LGY",
+                "defenderTag": "#8JQ2L8L0U",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 1,
+                "duration": 141
+            }
+        ],
+        "opponentAttacks": 0
+    },
+    {
+        "tag": "#VR9LV8GU",
+        "name": "u\u00aea 3====D(:o|)",
+        "townhallLevel": 10,
+        "mapPosition": 14,
+        "attacks": [
+            {
+                "attackerTag": "#VR9LV8GU",
+                "defenderTag": "#PVPYQ8Q9J",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 9,
+                "duration": 135
+            }
+        ],
+        "opponentAttacks": 0
+    },
+    {
+        "tag": "#LP2LCLUJP",
+        "name": "energy",
+        "townhallLevel": 9,
+        "mapPosition": 15,
+        "attacks": [
+            {
+                "attackerTag": "#LP2LCLUJP",
+                "defenderTag": "#2RU9GUJY9",
+                "stars": 2,
+                "destructionPercentage": 65,
+                "order": 14,
+                "duration": 94
+            }
+        ],
+        "opponentAttacks": 0
+    }
+]

@@ -1,0 +1,317 @@
+[
+    {
+        "tag": "#QCULC9VJ",
+        "name": "norlack",
+        "townhallLevel": 14,
+        "mapPosition": 1,
+        "attacks": [
+            {
+                "attackerTag": "#QCULC9VJ",
+                "defenderTag": "#P82PGJYVL",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 1,
+                "duration": 73
+            }
+        ],
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+            "attackerTag": "#2GQJUUG9P",
+            "defenderTag": "#QCULC9VJ",
+            "stars": 2,
+            "destructionPercentage": 95,
+            "order": 19,
+            "duration": 179
+        }
+    },
+    {
+        "tag": "#222JL22UU",
+        "name": "\u041c\u0430\u043a\u0441",
+        "townhallLevel": 14,
+        "mapPosition": 2,
+        "attacks": [
+            {
+                "attackerTag": "#222JL22UU",
+                "defenderTag": "#92R0C0UUU",
+                "stars": 2,
+                "destructionPercentage": 58,
+                "order": 4,
+                "duration": 79
+            }
+        ],
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+            "attackerTag": "#8J8R89RGU",
+            "defenderTag": "#222JL22UU",
+            "stars": 2,
+            "destructionPercentage": 73,
+            "order": 18,
+            "duration": 128
+        }
+    },
+    {
+        "tag": "#29YULV8RU",
+        "name": "\u043c\u0438\u0445\u0430\u0441\u0438\u043a",
+        "townhallLevel": 13,
+        "mapPosition": 3,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+            "attackerTag": "#92R0C0UUU",
+            "defenderTag": "#29YULV8RU",
+            "stars": 2,
+            "destructionPercentage": 71,
+            "order": 17,
+            "duration": 94
+        }
+    },
+    {
+        "tag": "#JY9VRJ9J",
+        "name": "Elena's camp",
+        "townhallLevel": 13,
+        "mapPosition": 4,
+        "attacks": [
+            {
+                "attackerTag": "#JY9VRJ9J",
+                "defenderTag": "#99898PPGU",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 21,
+                "duration": 83
+            }
+        ],
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+            "attackerTag": "#8J2JJL028",
+            "defenderTag": "#JY9VRJ9J",
+            "stars": 0,
+            "destructionPercentage": 44,
+            "order": 16,
+            "duration": 104
+        }
+    },
+    {
+        "tag": "#2QCVJ8C99",
+        "name": "\u2606\u00b0\u2022Katerina\u2022\u00b0\u2606",
+        "townhallLevel": 12,
+        "mapPosition": 5,
+        "attacks": [
+            {
+                "attackerTag": "#2QCVJ8C99",
+                "defenderTag": "#9PJR9RJLQ",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 2,
+                "duration": 103
+            }
+        ],
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+            "attackerTag": "#99CP8RJ2L",
+            "defenderTag": "#2QCVJ8C99",
+            "stars": 2,
+            "destructionPercentage": 77,
+            "order": 15,
+            "duration": 131
+        }
+    },
+    {
+        "tag": "#229G80QGU",
+        "name": "koldun",
+        "townhallLevel": 12,
+        "mapPosition": 6,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+            "attackerTag": "#98V90U9PJ",
+            "defenderTag": "#229G80QGU",
+            "stars": 1,
+            "destructionPercentage": 48,
+            "order": 14,
+            "duration": 96
+        }
+    },
+    {
+        "tag": "#Y999Q8GGP",
+        "name": "CE",
+        "townhallLevel": 12,
+        "mapPosition": 7,
+        "attacks": [
+            {
+                "attackerTag": "#Y999Q8GGP",
+                "defenderTag": "#8J2JJL028",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 22,
+                "duration": 115
+            }
+        ],
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+            "attackerTag": "#99898PPGU",
+            "defenderTag": "#Y999Q8GGP",
+            "stars": 2,
+            "destructionPercentage": 61,
+            "order": 13,
+            "duration": 113
+        }
+    },
+    {
+        "tag": "#YPJ9CYPJ8",
+        "name": "\u0440\u0430\u043a\u0438 \u0432 \u0430\u0442\u0430\u043a\u0435",
+        "townhallLevel": 13,
+        "mapPosition": 8,
+        "attacks": [
+            {
+                "attackerTag": "#YPJ9CYPJ8",
+                "defenderTag": "#LLLYQYLUV",
+                "stars": 1,
+                "destructionPercentage": 63,
+                "order": 3,
+                "duration": 87
+            }
+        ],
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+            "attackerTag": "#9PJR9RJLQ",
+            "defenderTag": "#YPJ9CYPJ8",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 12,
+            "duration": 91
+        }
+    },
+    {
+        "tag": "#LJJLRCJYJ",
+        "name": "ELA",
+        "townhallLevel": 11,
+        "mapPosition": 9,
+        "attacks": [
+            {
+                "attackerTag": "#LJJLRCJYJ",
+                "defenderTag": "#9GUYYU9QY",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 23,
+                "duration": 128
+            }
+        ],
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+            "attackerTag": "#92GCQUP29",
+            "defenderTag": "#LJJLRCJYJ",
+            "stars": 2,
+            "destructionPercentage": 74,
+            "order": 11,
+            "duration": 142
+        }
+    },
+    {
+        "tag": "#28J0PJJJY",
+        "name": "ttt",
+        "townhallLevel": 11,
+        "mapPosition": 10,
+        "attacks": [
+            {
+                "attackerTag": "#28J0PJJJY",
+                "defenderTag": "#92GCQUP29",
+                "stars": 0,
+                "destructionPercentage": 41,
+                "order": 24,
+                "duration": 60
+            }
+        ],
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+            "attackerTag": "#9URJUQGQJ",
+            "defenderTag": "#28J0PJJJY",
+            "stars": 2,
+            "destructionPercentage": 80,
+            "order": 10,
+            "duration": 94
+        }
+    },
+    {
+        "tag": "#9V2QG82VQ",
+        "name": "\u0441\u0430\u0448\u04301",
+        "townhallLevel": 11,
+        "mapPosition": 11,
+        "attacks": [
+            {
+                "attackerTag": "#9V2QG82VQ",
+                "defenderTag": "#9URJUQGQJ",
+                "stars": 3,
+                "destructionPercentage": 100,
+                "order": 20,
+                "duration": 148
+            }
+        ],
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+            "attackerTag": "#9GUYYU9QY",
+            "defenderTag": "#9V2QG82VQ",
+            "stars": 2,
+            "destructionPercentage": 56,
+            "order": 9,
+            "duration": 88
+        }
+    },
+    {
+        "tag": "#PLL8CU9L2",
+        "name": "Don Corleone",
+        "townhallLevel": 11,
+        "mapPosition": 12,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+            "attackerTag": "#P82PGJYVL",
+            "defenderTag": "#PLL8CU9L2",
+            "stars": 2,
+            "destructionPercentage": 61,
+            "order": 8,
+            "duration": 85
+        }
+    },
+    {
+        "tag": "#P0PYCUJVR",
+        "name": "A.Rustamow",
+        "townhallLevel": 10,
+        "mapPosition": 13,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+            "attackerTag": "#P2UVLLGYC",
+            "defenderTag": "#P0PYCUJVR",
+            "stars": 2,
+            "destructionPercentage": 84,
+            "order": 7,
+            "duration": 109
+        }
+    },
+    {
+        "tag": "#C28UVC8Q",
+        "name": "GOLD art METALL",
+        "townhallLevel": 10,
+        "mapPosition": 14,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+            "attackerTag": "#LY28P9VL8",
+            "defenderTag": "#C28UVC8Q",
+            "stars": 2,
+            "destructionPercentage": 68,
+            "order": 6,
+            "duration": 102
+        }
+    },
+    {
+        "tag": "#22Y8J0YYQ",
+        "name": "\u0421\u0430\u0433\u044b\u043d\u0431\u0435\u043a",
+        "townhallLevel": 11,
+        "mapPosition": 15,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+            "attackerTag": "#LLLYQYLUV",
+            "defenderTag": "#22Y8J0YYQ",
+            "stars": 2,
+            "destructionPercentage": 68,
+            "order": 5,
+            "duration": 125
+        }
+    }
+]
